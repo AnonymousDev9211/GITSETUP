@@ -1,0 +1,53 @@
+EKSPERTSYSTEMS.COM
+
+
+https://wordpress.org/plugins/karma-website-builder/ --PLUGIN 
+
+http://theme.pixflow.net/massive-dynamic/business-modern/
+
+http://unicon.minti-themes.com/home/home-new/
+
+http://theme.pixflow.net/massive-dynamic/business-classic/
+
+SSL ERROR SELF CERT SIGNED ERROR
+set NODE_TLS_REJECT_UNAUTHORIZED=0
+
+https://medium.com/@ssmak/npm-install-failed-reason-self-signed-certificate-in-certificate-chain-471e7ccfcfab
+
+https://github.com/git-for-windows/git/releases/download/v2.18.0.windows.1/PortableGit-2.18.0-64-bit.7z.exe
+
+;C:\Program Files\Git\bin\git.exe;C:\Program Files\Git\cmd.
+
+
+;C:\Programfilesx64\git
+
+;.bin;C:\Programfilesx64\nodejs;C:\Programfilesx64\nodejs\npm;
+
+;C:\Users\ahmedkhans\AppData\Local\Programs\Git\bin;C:\Users\ahmedkhans\AppData\Local\Programs\Git\cmd;
+;.bin;C:\Programfilesx64\nodejs;C:\Programfilesx64\nodejs\npm;;C:\Users\ahmedkhans\AppData\Local\Programs\Git\bin;C:\Users\ahmedkhans\AppData\Local\Programs\Git\cmd;
+C:\Users\ahmedkhans\AppData\Local\Programs\OpenSSH
+
+1. UNITY OF WORK REPOSITORY PATTERN
+2. FACTORY PATTERN
+3. SOA
+
+https://ionicframework.com/docs/pro/basics/getting-started/ IONIC INSTALL
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
+Steps to upload ionic app to GIT.
+1. ionic git remote
+2. git commit -a -m "Initial commit"
+3. git push ionic master
+
+C:\Users\ahmedkhans\.ssh\ionic\1492513
+
+git remote add origin https://github.com/AnonymousDev9211/laeeb-camera
+
+git pull origin https://github.com/AnonymousDev9211/laeeb-camera
+
+cordova plugin add cordova-plugin-ionic --save --variable APP_ID="4989e04b" --variable CHANNEL_NAME="Master" --variable UPDATE_METHOD="background"
+
+git remote add origin [REPOSITORY_URL]
+
+
